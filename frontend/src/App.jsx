@@ -10,7 +10,7 @@ function App() {
     if (!text.trim()) return;
     setLoading(true);
     try {
-      const response = await axios.post('http://localhost:8000/predict', { text });
+      const response = await axios.post('https://backend-phgn.onrender.com/predict', { text });
       setResult(response.data);
     } catch (error) {
       console.error(error);
