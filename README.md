@@ -1,4 +1,4 @@
-# 🚀 # Sentiment Analysis Web Application - Fine-tuned on IMDb Dataset
+# 🚀 # Sentiment Analysis Fine-tuned on IMDb Dataset (Web App)
 
 A complete **Sentiment Analysis** product built using **FastAPI**, **React.js**, **Transformers**, and **Docker** — fully containerized and deployed on **Render (free hosting)**.
 
