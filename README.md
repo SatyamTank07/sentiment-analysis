@@ -1,4 +1,4 @@
-# 🚀 Sentiment Analysis Web Application
+# 🚀 # Sentiment Analysis Web Application - Fine-tuned on IMDb Dataset
 
 A complete **Sentiment Analysis** product built using **FastAPI**, **React.js**, **Transformers**, and **Docker** — fully containerized and deployed on **Render (free hosting)**.
 
@@ -12,7 +12,7 @@ A complete **Sentiment Analysis** product built using **FastAPI**, **React.js**,
 
 - **Frontend**: React.js (Vite)
 - **Backend**: FastAPI (Python)
-- **NLP Model**: Huggingface Transformers (BERT)
+- **NLP Model**: Huggingface Transformers (BERT Fine-tuned)
 - **Containerization**: Docker, Docker-Compose
 - **Deployment**: Render.com
 
